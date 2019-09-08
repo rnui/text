@@ -17,6 +17,4 @@ export const UIText: FunctionComponent<Props> = (props) => {
 UIText.defaultProps = {
     color: '#333',
     size: 14,
-    weight: 'normal',
-    lineHeight: 20,
 };
